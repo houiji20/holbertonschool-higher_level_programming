@@ -8,8 +8,3 @@ function factorial (x) {
   }
 }
 console.log(factorial(parseInt(x)));
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Pri
